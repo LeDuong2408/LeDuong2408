@@ -1,16 +1,17 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
 
-<!--
-**LeDuong2408/LeDuong2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Le Duong. Currently, I am a student majoring in artificial intelligence at Ho Chi Minh City University of Technology and Education. I am very interested in learning algorithms in machine learning and deep learning. I am interested in the following topics: Computer Vision, NLP.<br>
+## 📫 How to reach me: 
 
-Here are some ideas to get you started:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/le-duong-04080a2a1) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](github.com/LeDuong2408) 
+[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube]([https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw](https://www.youtube.com/channel/UCm7uUmE3tZnO-M5H7MVC1ng))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Duong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeDuong2408&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/LeDuong2408/Image-Processing">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Image-Processing&theme=radical" />
+</a>    

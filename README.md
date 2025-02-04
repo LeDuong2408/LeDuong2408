@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Le Duong. Currently, I am a student majoring in artificial intelligence at Ho Chi Minh City University of Technology and Education. I am very interested in learning algorithms in machine learning and deep learning. I am interested in the following topics: Computer Vision, NLP.<br>
+My name is Le Duong. Currently, I am a student majoring in artificial intelligence at Ho Chi Minh City University of Technology and Education. I am very interested in learning algorithms in machine learning and deep learning. I am interested in the following topics: Computer Vision, NLP, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/le-duong-04080a2a1) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://www.github.com/LeDuong2408)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCm7uUmE3tZnO-M5H7MVC1ng)

@@ -8,6 +8,7 @@ My name is Le Duong. Currently, I am a student majoring in artificial intelligen
 
 
 ![Duong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeDuong2408&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 <a href="https://github.com/LeDuong2408/Speech-to-text-VietNamese-FastSpeech2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Speech-to-text-VietNamese-FastSpeech2&theme=radical" />

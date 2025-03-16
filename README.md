@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Le Duong. Currently, I am a student majoring in artificial intelligence at Ho Chi Minh City University of Technology and Education. I am very interested in learning algorithms in machine learning and deep learning. I am interested in the following topics: Computer Vision, NLP, Reinforcement Learning.<br>
+I am deeply passionate about Artificial Intelligence, with over a year of hands-on experience as an AI Engineer. I aspire to thrive in a dynamic environment where I can leverage my expertise, collaborate with like-minded professionals, and continue to grow in this ever-evolving field.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/le-duong-04080a2a1) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://www.github.com/LeDuong2408)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCm7uUmE3tZnO-M5H7MVC1ng)
@@ -12,6 +12,10 @@ My name is Le Duong. Currently, I am a student majoring in artificial intelligen
 <a href="https://github.com/LeDuong2408/Speech-to-text-VietNamese-FastSpeech2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Speech-to-text-VietNamese-FastSpeech2&theme=radical" />
+</a>
+<a href="https://github.com/LeDuong2408/Chatbot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Chatbot&theme=radical" />
 </a>
 <a href="https://github.com/LeDuong2408/Automation-Vehicle">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -32,10 +36,6 @@ My name is Le Duong. Currently, I am a student majoring in artificial intelligen
 <a href="https://github.com/LeDuong2408/Image-Processing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Image-Processing&theme=radical" />
-</a>
-<a href="https://github.com/LeDuong2408/CTDL">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=CTDL&theme=radical" />
 </a>
 <a href="https://github.com/LeDuong2408/ALOHCMUTE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

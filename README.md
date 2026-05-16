@@ -17,6 +17,10 @@ I am deeply passionate about Artificial Intelligence, with over a year of hands-
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Chatbot&theme=radical" />
 </a>
+<a href="https://github.com/LeDuong2408/sign-recognition">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Sign-Recognition&theme=radical" />
+</a>
 <a href="https://github.com/LeDuong2408/Automation-Vehicle">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Automation-Vehicle&theme=radical" />
@@ -37,7 +41,4 @@ I am deeply passionate about Artificial Intelligence, with over a year of hands-
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=Image-Processing&theme=radical" />
 </a>
-<a href="https://github.com/LeDuong2408/ALOHCMUTE">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeDuong2408&repo=ALOHCMUTE&theme=radical" />
-</a>   
+   
